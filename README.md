@@ -3,7 +3,9 @@
 <!--
 **j1t077/j1t077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+¡Hola! Soy Jorge P, un apasionado de las comunicaciones de voz y datos, y un operador de sistemas de grado 2 con experiencia en el sector. Me encanta trabajar en proyectos que involucren tecnologías de comunicación, y siempre estoy buscando aprender cosas nuevas y mejorar mis habilidades.
+
+En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programación y tecnologías.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
