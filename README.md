@@ -12,7 +12,7 @@ En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programaci
 ## Tecnologías:
 [![Redes_Informaticas](https://img.shields.io/badge/-Redes%20Informaticas-red)]()  
 [![Voz y Datos](https://img.shields.io/badge/-Voz%20y%20Datos-blueviolet)]()  
-[![HTML5](https://img.shields.io/badge/-html5-orange)]()  
+[![HTML5](https://img.shields.io/badge/-HTML5-orange)]()  
 [![CSS3](https://img.shields.io/badge/-CSS3-informational)]()
 
 ## Contacto y apoyo:
