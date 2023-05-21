@@ -11,5 +11,5 @@ En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programaci
 
 ## Tecnologías:
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/-html5-orange)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
