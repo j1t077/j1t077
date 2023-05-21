@@ -10,6 +10,6 @@ En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programaci
 > Actualmente estoy en un Bootcamp estudiando Desarrollo web (Full Stack).
 
 ## Tecnologías:
-
+[![Voz y Datos](https://img.shields.io/badge/-Voz%20y%20Datos-blueviolet)]()
 [![HTML5](https://img.shields.io/badge/-html5-orange)]()  
 [![CSS3](https://img.shields.io/badge/-css3-informational)]()
