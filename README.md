@@ -1,4 +1,4 @@
-### Hola, mi nombre es Jorge P. 👋
+### Hola, mi nombre es Jorge P. {gifs/wave}
 
 ![Readme _de_GitHub](https://github.com/j1t077/j1t077/assets/96486397/47b85793-3802-473c-b5a1-ed9baf61f6b7)
 
