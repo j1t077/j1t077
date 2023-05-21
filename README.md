@@ -12,4 +12,4 @@ En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programaci
 ## Tecnologías:
 
 [![HTML5](https://img.shields.io/badge/-html5-orange)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/-css3-informational)]()
