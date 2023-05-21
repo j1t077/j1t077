@@ -13,7 +13,7 @@ En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programaci
 [![Redes_Informaticas](https://img.shields.io/badge/-Redes%20Informaticas-red)]()  
 [![Voz y Datos](https://img.shields.io/badge/-Voz%20y%20Datos-blueviolet)]()  
 [![HTML5](https://img.shields.io/badge/-html5-orange)]()  
-[![CSS3](https://img.shields.io/badge/-css3-informational)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-informational)]()
 
 ## Contacto y apoyo:
 [![Email](https://img.shields.io/badge/jmpf1977%40gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=a472c5)](mailto:jmpf1977@gmail.com)
