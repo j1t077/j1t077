@@ -10,7 +10,3 @@ En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programaci
 Actualmente estoy en un Bootcamp estudiando Desarrollo web (Full Stack).
 
 # Tecnologías:
-
-
-
-
