@@ -14,3 +14,6 @@ En mi tiempo libre, me gusta experimentar con diferentes lenguajes de programaci
 [![Voz y Datos](https://img.shields.io/badge/-Voz%20y%20Datos-blueviolet)]()  
 [![HTML5](https://img.shields.io/badge/-html5-orange)]()  
 [![CSS3](https://img.shields.io/badge/-css3-informational)]()
+
+## Contacto y apoyo:
+jmpf@gmail.com [![Respuesta_Lenta](https://img.shields.io/badge/-Respuestya%20Lenta-black)]()
